@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/59e623ec10b93d799973aab42a9f12d24e38f3b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42092eb7f7fda0cbd95d6c42a98a990eac34759b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/311e4348e8697dc48c491cc9b1074c0310de51ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5656884058eb28e33902b5d9f50e0f7b6989fdfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/96be07b11c0947d44afdaf906b21327afd1f1caa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f6d6d57930afec67cdcd48c41d58f43092b4fb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/b7efa82bfd7a52da872bc0df47f38fe9883ce8db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c842158a18e78db31b4c7d1196b870140a6421e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/21f9109bb5ecf248a9df829d58bafcee85b6b3fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fbe6c75590e75e560166474fc09e4c2bc70a50b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3f8c84d0873facefa2a3488428cc62c34a47b404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/6c2a7cae1b0e11ca62c38e22170e8c63f169a371/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d2ec9f212915eb42173374bde01f67609e9eff1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/e7dd7472318808149b6005e8934c630fef910474/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_288fe5a79281a57cb0cbc7e4bea09ef810c9381f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/01ad8b1e330a3f081180cd10831954fce9dd50de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b1fb11cc10d51f962945507385e7fafb545c2fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/d7dde0f46bd8b079aca47b437ea3a0ce78cdd5e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98d4509f25b09529206c696dd7afca23bc19a63b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/deb16a8d728ff32efb8b7d229b8e6897b055af02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a989a2cad91ba08a60bd2d470aed3319edae606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/45024117add1fa2c679a05061b200b97b0494551/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64ec9ef42afd9fdf39b0384cf0fadea6fb9acbfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/1b3af81b7840ae7e9f73633352afaf0933eb6c7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45efe1621a209a22e64eb62aff721d009ae665ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/5868d3c6a0a2c9697da5e56564409b8136a23e7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3166b292e2c6bce712202072e90d91da8688a3bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/835b1bcab7a96f447eb44dfbfef11bf048f9ddb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a12e911848ae95d640b8b6a19691b14a2aab35b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/73cd09ab653957d520d8fd2f2cf7f6810119250e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddec98e3b0cbaa4fc72757e079302d7ddd440c58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7f3b26536b7d5bfd6d6dfa9b44f38cf65348ebf">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7c195e39894b7b9860ead2f3e13b51a30d3ddf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/d24e7ebe7b1e591e82ac39144bff44b54b117738/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6971f4fe8136fe6af7b32c547d4e44b48837d7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/a387f4ae2bd938d93171246149e612411315feea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d86dd9cfac3335e907f0eecfed5804afe6e57c9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_317024f89bacb28d223a7aa65b38c207b0d7746a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/043a86df580ca9b6eeb83db79cecb544a7da153c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_007f0973903433c9c75c3e144e6bd3a5a0e42e7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/.android/build-cache/61cd0f04e3d6dc7ae34bedb28a7227e727cdb7d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5311b8ca7e268bdb9834eaeaf18e30ae043022f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Alex/AndroidStudioProjects/LocationShoppingList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_78432dc7bcc3db2bb30a7fbb69c4e2a57968bfa9/classes.dex" />
+    </item>
+
+</items>
